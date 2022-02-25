@@ -35,8 +35,8 @@ commands to run the programs:
 	$spark-submit collaborativefiltering_cosine.py <user_id>
 	$spark-submit collaborativefiltering_nearest_neigh.py <user_id>
 
-
-	
+#Detailed Documentation
+https://sites.google.com/uncc.edu/movierecommendationsystem/home?authuser=0
 
 	
 	
